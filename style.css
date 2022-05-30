@@ -1,0 +1,23 @@
+html{
+    background-color: black;
+    color: white;
+}
+
+header{
+    background-color: black;
+}
+
+body{
+    min-width: 785px;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+
+#description {
+    background-color: white;
+}
+
+#description > p >img {
+    width: 100%;
+}
